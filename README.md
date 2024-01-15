@@ -230,3 +230,7 @@ Wnioski z projektu:
 3.  **Zastosowanie Wersji Desktopowej:** Przeniesienie funkcji analizy do aplikacji desktopowej przy użyciu Tkinter umożliwia wygodne korzystanie z narzędzia przez użytkowników.
 
 4.  **Zastosowanie Filtracji Savitzky-Golay:** Filtr Savitzky-Golay skutecznie wygładza krzywe, ułatwiając identyfikację punktów przegięcia.
+
+</br>
+
+![image](https://github.com/MichalKrol2020/turning-point-analyzer/assets/106864921/7a4c2bca-d918-4480-8ba4-1d2a4848d2b8)
